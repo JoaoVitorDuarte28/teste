@@ -1,0 +1,72 @@
+body {
+    background-color: rgb(0, 48, 121);
+    padding: 0px;
+    margin: 0px;
+}
+
+nav {
+    background-color: rgb(255, 255, 255);
+    border-radius: 0px 0px 20px 20px;
+}
+
+nav img {
+    height: 50px;
+    margin-top: 30px;
+    margin-left: 15px;
+}
+
+nav a {
+    margin-left: 50%;
+    text-decoration: none;
+    border-radius: 20px;
+    font-size: 20px;
+}
+
+nav .texto {
+    align-items: center;
+    text-align: center;
+    margin-top: 3%;
+}
+
+form {
+    color: white;
+    align-items: center;
+    text-align: center;
+    margin-top: 10%;
+}
+
+form input {
+    background-color: rgba(206, 206, 206, 0.26);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border-radius: 20px;
+    border-style: none;
+    width: 25%;
+    height: 25px;
+}
+
+form button {
+    background-color: rgb(255, 217, 0);
+    font-size: 20px;
+    border-color: none;
+    border-style: none;
+    border-radius: 20px;
+    width: 20%;
+    height: 25px;
+    margin-left: 5%;
+}
+
+form a {
+    margin-top: 354%;
+    font-size: 15px;
+    width: 20%;
+    height: 25px;
+    margin-left: 5%;
+}
+
+.consultaSituacao {
+    display: flex;
+    align-items: center;
+    margin-left: 50%;
+    text-align: center;
+}
